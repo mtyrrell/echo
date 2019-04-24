@@ -1,0 +1,22 @@
+{
+  "name": "echo",
+  "version": "1.0.0",
+  "description": "Simple echo service for discussions about code portability",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtyrrell/echo.git"
+  },
+  "keywords": [
+    "echo"
+  ],
+  "author": "matyrrell@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mtyrrell/echo/issues"
+  },
+  "homepage": "https://github.com/mtyrrell/echo#readme"
+}
